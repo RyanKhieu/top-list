@@ -15,6 +15,5 @@ int main() {
     for (int i = 0; i < listSize; i++) {
         std::cout << i + 1 << ". " << list[i] << std::endl;
     }
-    std::cout << std::endl;
     return 0;
 }
